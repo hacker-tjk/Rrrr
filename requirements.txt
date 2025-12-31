@@ -1,0 +1,8 @@
+python-telegram-bot
+g4f==0.5.7.3
+requests
+flask
+aiohttp
+numpy
+pandas
+scipy
